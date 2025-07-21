@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+I share with you my roadmap with intention to reach position of Software Architect. 
+It is a work in progress and I will update it as I learn more.
+[Open my interactive diagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=RoadMap.drawio&dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FPaolaBiondi%2FPaolaBiondi%2Fmain%2FRoadMap.drawio) or preview it below.
+
 ![My diagram](RoadMap.drawio.svg)
 
-[Open my interactive diagram in draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=RoadMap.drawio&dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FPaolaBiondi%2FPaolaBiondi%2Fmain%2FRoadMap.drawio)
 
 
 <!--
