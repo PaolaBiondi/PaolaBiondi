@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![My diagram](RoadMap.drawio.svg)
+
+[Open my interactive diagram in draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=RoadMap.drawio&dark=auto#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FPaolaBiondi%2FPaolaBiondi%2Fmain%2FRoadMap.drawio)
+
+
 <!--
 **PaolaBiondi/PaolaBiondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
